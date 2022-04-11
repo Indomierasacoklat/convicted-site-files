@@ -1,47 +1,47 @@
 # Tokenomics
-> Any information described in tokenomics can change before the tokens are listed. 
+> Setiap informasi yang dijelaskan dalam tokennomics ini dapat berubah sebelum token didaftarkan. 
 
-Total amount of tokens issued:
+Jumlah total token yang dikeluarkan:
 - $CCGI (Cigarettes) - 1.000.000.000 
 - $CRUB (Rubl) - 1.000.000.000 
 - $CFOD (Food) - 1.000.000.000
 
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/tokens.svg) 
 
-# Allocation tokens
-Token allocation data will be available once the future project is determined.
+# Distribusi token
+Data alokasi token akan tersedia setelah proyek berikutnya ditentukan.
 
 
-# Distribution of funds received
->**Game development - 25%**
+# Distribusi dana yang diterima
+>**Pengembangan Game - 25%**
 
-Most of the money will go to the development of the 3d version of the game, the development of the interface and internal mechanics of the game.
+Sebagian besar dana akan digunakan untuk pengembangan versi 3d game, pengembangan antarmuka, dan mekanisme internal game.
 
->**Cash distribution pool for tokens - 15%**
+>**Pool distribusi dana untuk token - 15%**
 
-Each "Convicted" game token will generate passive income for its holders in the form of WAX tokens. Each token will receive 5% of all project revenues.
-You can read more about this in the [WhitePaper](http://161.35.217.137:9000/whitepaper).
+Setiap token game "Convicted" akan menghasilkan pendapatan pasif dalam bentuk token WAX bagi pemegangnya. Setiap token akan menerima 5% dari semua pendapatan proyek.
+Kamu dapat membaca lebih jauh pada [WhitePaper](http://161.35.217.137:9000/whitepaper).
 
 >**Team - 15%**
 
-The Team will own 15% of each token of our project. These tokens will be locked in for 6 months completely with planned distribution.
+Tim akan menerima 15% dari setiap token proyek kami. Token ini akan dikunci selama 6 bulan penuh dengan distribusi yang sudah direncanakan.
 
->**Liquidity - 25%**
+>**Likuiditas - 25%**
 
-We will take care of the liquidity of our tokens. Our plan is to regularly replenish the pools of tokens, so as not to traumatize the market.
+Kami akan menjaga likuiditas token kami. Rencana kami dengan mengisi kembali pool token secara berkala, sehingga tidak membuat gejolak pasar.
 
->**Development fund - 10%**
+>**Dana Pengembangan - 10%**
 
-This fund will shape the future development of our infrastructure and company in P2E game technology. We plan to please you in the future with even more serious games in this direction.
+Dana ini diperuntukan pengembangan infrastruktur dan perusahaan kami di masa depan dalam hal teknologi game P2E. Kami ingin menyenangkan Anda di masa depan dengan game yang lebih serius.
 
->**Marketing - 5%**
+>**Pemasaran - 5%**
 
 
->**Non-preliminary expenses - 5%**
+>**Biaya Pra-operasi - 5%**
 
 ![Tokens](https://github.com/verscorp/convicted-site-files/blob/main/images/funds.png) 
 
-Be sure to read about the [project's DAO and getting WAX tokens for owning internal game tokens](http://161.35.217.137:9000/token-information).
+Agar membaca ini [project's DAO and getting WAX tokens for owning internal game tokens](http://161.35.217.137:9000/token-information).
 
-Read our [WhitePaper](http://161.35.217.137:9000/whitepaper)
+Baca [WhitePaper](http://161.35.217.137:9000/whitepaper)
 
